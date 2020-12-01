@@ -1,0 +1,4 @@
+public static void main(String RG[])
+{
+   system.ouut.priintln("First code:")
+}
